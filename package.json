@@ -1,0 +1,15 @@
+{
+  "name": "learnhttpproxy",
+  "version": "0.0.2",
+  "description": "HTTP proxy that can replace headers",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Carles Duz Palau (cpalau@cisco.com)",
+  "license": "MIT",
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
